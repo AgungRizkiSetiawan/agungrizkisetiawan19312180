@@ -56,7 +56,16 @@
 <p>3. Yang terahir publish dalam bentuk .html</p>
 <p><img src="12.png" width="1366" height="768" /></p>
 
-<div align="center">
+
+</html>
+  
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<script type="text/javascript" src="copperlichtdata/copperlicht.js"></script>
+</head>
+<body>
+	<div align="center">
 		<canvas id="3darea" width="800" height="600" style="background-color:#"#000000"">
 		</canvas>
 	</div>
